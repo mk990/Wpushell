@@ -26,9 +26,9 @@ The first thing to be prepared is, of course, your computer must have ***python 
 <br>
 There are several ways of installation:
 #### Manual Installation
-1. Clone or [download] (https://github.com/22XploiterCrew-Team/Wpushell) repository.
+1. Clone or [download] (https://github.com/mk990/Wpushell) repository.
 ```sh
-git clone https://github.com/22XploiterCrew-Team/Wpushell.git
+git clone https://github.com/mk990/Wpushell.git
 ```
 
 2. Perform the installation of the required dependencies which have been written in the `requirements.txt` file.
